@@ -4,7 +4,6 @@ const db = require('./src/db');
 const Service = require('./src/database/models/ServiceModel');
 const Office = require('./src/database/models/OfficeModel'); 
 const Department = require('./src/database/models/DepartmentModel'); 
-require('./src/database/CreateDocuments');
 const routes = require('./src/database/routеs/routеs');
 
 
