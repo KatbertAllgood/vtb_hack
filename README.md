@@ -24,7 +24,7 @@ Android-приложение для подбора оптимального от
 ## Инструкция по развертыванию Backend:
 1. Установите все библиотеки и зависимости: npm install node express mongoose body-parser cors 
 2. Для AI: pip install tensorflow Flask, cv2, numpy
-
+3. запуск сервера node index.js
 ## Описание используемых технологий, библиотек и фреймворков
 ### Android:
 * Архитектурные паттерны: Clean Architecure + Model View ViewModel
