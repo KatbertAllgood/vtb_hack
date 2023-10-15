@@ -2,11 +2,11 @@
 Android-приложение для подбора оптимального отделения банка с учетом потребностей клиента и доступности услуг
 
 ## Скриншоты приложения
-![image](https://github.com/KatbertAllgood/vtb_hack/assets/73115406/96c68d90-871a-4485-849d-032843fb6422)
-![image](https://github.com/KatbertAllgood/vtb_hack/assets/73115406/339a0278-1f7b-428b-844f-d58464b43882)
-![image](https://github.com/KatbertAllgood/vtb_hack/assets/73115406/0d1b2850-b135-49fb-a02b-fdebd8ec820f)
-![image](https://github.com/KatbertAllgood/vtb_hack/assets/73115406/5e43da21-35cc-47c4-a224-5c7bd87a1a47)
-![image](https://github.com/KatbertAllgood/vtb_hack/assets/73115406/6a119f06-9c34-41a2-bd4c-3626ea7c1a84)
+<img src="https://github.com/KatbertAllgood/vtb_hack/assets/73115406/96c68d90-871a-4485-849d-032843fb6422" width="250" height="500" />
+<img src="https://github.com/KatbertAllgood/vtb_hack/assets/73115406/339a0278-1f7b-428b-844f-d58464b43882" width="250" height="500" />
+<img src="https://github.com/KatbertAllgood/vtb_hack/assets/73115406/0d1b2850-b135-49fb-a02b-fdebd8ec820f" width="250" height="500" />
+<img src="https://github.com/KatbertAllgood/vtb_hack/assets/73115406/5e43da21-35cc-47c4-a224-5c7bd87a1a47" width="250" height="500" />
+<img src="https://github.com/KatbertAllgood/vtb_hack/assets/73115406/6a119f06-9c34-41a2-bd4c-3626ea7c1a84" width="250" height="500" />
 
 
 ## Инструкция по запуску Android-приложения:
