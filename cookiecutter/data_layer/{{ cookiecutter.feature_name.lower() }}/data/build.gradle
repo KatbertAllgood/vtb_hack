@@ -1,0 +1,16 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-kapt'
+apply plugin: ru.kode.gradle.ConfigurationPlugin
+
+dependencies {
+  implementation project(':lib:preferences')
+  implementation Deps.supportPreferences
+
+  implementation project(':core:domain:entity')
+  implementation project(':core:data')
+  implementation project(':{{ cookiecutter.feature_name.lower() }}:domain')
+
+  kapt Deps.toothpickProcessor
+  kapt Deps.moshiProcessor
+}

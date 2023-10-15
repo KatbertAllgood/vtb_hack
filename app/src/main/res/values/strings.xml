@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ВТБ Маршрут</string>
+
+    <string name="code_message">Код: 746124</string>
+    <string name="phone_mask">+7 (%s%s%s) %s%s%s-%s%s-%s%s</string>
+
+    <string name="type_phone">Укажите телефон</string>
+    <string name="type_phone_label">Номер телефона</string>
+    <string name="receive_code">Получить код</string>
+    <string name="become_client">Стать клиентом</string>
+
+    <string name="confirm_phone">Подтвердите телефон</string>
+    <string name="code_hint">Мы отправили проверочный код\nна ваш номер&#160;</string>
+    <string name="await_code">Код придет в течение 01:00</string>
+    <string name="sing_in">Войти</string>
+    <string name="time_left">Код придет в течение&#160;</string>
+
+    <string name="address_ect">Адрес, отделение</string>
+
+    <string name="all_service">Все</string>
+    <string name="credits_service">Кредиты</string>
+    <string name="cards_service">Карты</string>
+    <string name="ipoteca_service">Ипотека</string>
+    <string name="autocredits_service">Автокредиты</string>
+
+    <string name="filters_departments">Фильтр отделений</string>
+    <string name="for_people">Частным лицам</string>
+    <string name="for_own_busy">Самозанятым</string>
+    <string name="for_small_and_big_business">Малый и средний бизнес</string>
+    <string name="for_huge_business">Крупный бизнес</string>
+
+    <string name="all_load">Общая загруженность</string>
+    <string name="do_route">Проложить маршрут</string>
+    <string name="service">Обслуживание</string>
+    <string name="load">Загруженность</string>
+    <string name="allow_area">Доступная среда</string>
+    <string name="low_mobility_people">Маломобильные граждане</string>
+    <string name="business_time">Время работы:</string>
+    <string name="mn_fr">Пн-Пт</string>
+    <string name="st_sn">Сб-Вс</string>
+    <string name="nearby_subway">Ближайшая станция метро</string>
+
+    <string name="start">Начать</string>
+
+    <string name="from_my_location">Откуда: Мое местоположение</string>
+    <string name="where">Куда: %s</string>
+
+</resources>
