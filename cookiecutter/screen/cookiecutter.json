@@ -1,9 +1,0 @@
-{
-    "module_package_relative_to_feature_package": "examplemodule.package",
-    "screen_package_relative_to_module_package": "example.badgelist",
-    "screen_name": "BadgeList",
-    "source_set_dir": "src/main/kotlin",
-    "feature_package": "сom.example.VTB_hackaton.screen",
-    "screen_package": "{{ cookiecutter.module_package }}.{{ cookiecutter.screen_package_relative_to_module_package }}",
-    "screen_package_dir": "{{ cookiecutter.screen_package.replace('.', '/')}}"
-}

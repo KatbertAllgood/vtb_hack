@@ -1,8 +1,0 @@
-{
-  "feature_name": "Badges",
-  "module_dir": "{{ cookiecutter.feature_name.lower() }}/domain",
-  "source_set_dir": "src/main/kotlin",
-  "manifest_dir": "src/main/AndroidManifest.xml",
-  "feature_domain_package": "ru.kode.mileonair.{{ cookiecutter.feature_name.lower() }}.domain",
-  "feature_domain_package_dir": "{{ cookiecutter.feature_domain_package.replace('.', '/')}}"
-}
